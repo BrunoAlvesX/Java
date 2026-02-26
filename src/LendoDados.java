@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class Main {
+public class LendoDados {
     public static void main(String[] args) {
         int n = 10;
         double n2= 10.1214;
